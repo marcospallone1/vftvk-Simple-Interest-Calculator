@@ -1,4 +1,31 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	background-color:white;
+}
+h1{
+	color:gray;
+	font-weight:bold;
+}
+label{
+	margin-left:25px;
+	width:90px;
+	display: inline-block;
+	margin-top:10px;
+	font-size:15px;
+}
+input, select{
+	margin-left:50px;
+}
+button{
+	margin-top: 10px;
+	margin-left:25px;
+	font-size:15px;
+}
+p{
+	margin-top: 10px;
+	margin-left:25px;
+}
+#spanRes{
+	background-color:#FFFF00;
+}
 
 
